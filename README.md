@@ -1,7 +1,7 @@
 ChromaWebsite
 ============
 
-A HTML/CSS based project for Chroma Hills as contacted to do so.
+A HTML/CSS based project for Chroma Hills as contracted to do so.
 
 
 #Usage
