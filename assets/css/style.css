@@ -42,7 +42,7 @@ h3.welcome2 a:hover {
 }
 
 .welcome > i {
-	font-size: 30%;
+	font-size: 50%;
 	font-weight: 400;
 	color: #777;
 }
@@ -342,7 +342,9 @@ font-size: 17px;
 	font-family: "Hobo std";
 }
 
-
+.divided-list {
+border-right: 1px solid rgba(119, 119, 119, 0.24);
+}
 
 
 
@@ -455,7 +457,7 @@ a {
 
 /* Enter name at bottom of index form stuff
 -------------------------------------------------- */
-.browser .bar .address {
+.browser .bar .address  {
 border: 1px solid hsl(207, 11%, 86%);
 border-radius: 2px;
 padding: 10px;
@@ -464,11 +466,35 @@ color: #505050;
 font-family: Lato;
 }
 
-.browser .bar {
+.browser .bar2 .address2, .browser2 .bar2 .address2    {
+border: 1px solid hsl(207, 11%, 86%);
+border-radius: 2px;
+padding: 10px;
+width: 74.5%;;
+color: #505050;
+font-family: Lato;
+}
+
+.browser .bar2, .browser2 .bar2 {
+border-bottom: 1px solid hsl(207, 11%, 86%);
+padding: 5px;
+background: hsla(0, 0%, 0%, 0.07);
+border-radius: 3px 3px 0 0;
+}
+
+.browser .bar, .browser2 .bar {
 border-bottom: 1px solid hsl(207, 11%, 86%);
 padding: 5px;
 background: hsl(207, 11%, 98%);
 border-radius: 3px 3px 0 0;
+}
+
+.browser2 {
+width: 80px;
+margin: 30px auto 0px;
+border: 1px solid hsl(207, 11%, 86%);
+border-radius: 3px;
+box-shadow: 0 1px 1px hsla(0, 0%, 0%, 0.1);
 }
 
 .browser {
@@ -477,6 +503,10 @@ margin: 30px auto 0px;
 border: 1px solid hsl(207, 11%, 86%);
 border-radius: 3px;
 box-shadow: 0 1px 1px hsla(0, 0%, 0%, 0.1);
+}
+
+.address2 {
+	width: 98.5%;
 }
 
 .button-grey:hover {

@@ -16,9 +16,10 @@
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
     <!-- Include Jquery at the bottom of your page -->
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 
 <!-- Your Config -->
 <script src="./assets/smooth/js/config.js"></script>
+<script src="./assets/js/lightbox.js"></script>
 
 </html>

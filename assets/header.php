@@ -4,6 +4,10 @@
 
 	<title>Chroma Hills Network</title>
 
+	<!-- Fonts from TypeKit -->
+	<script type="text/javascript" src="//use.typekit.net/gky2akt.js"></script>
+	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
 	<!-- Meta information for search engines -->
 	<meta name="description" content="Chroma Hills donation system for fans of the Chroma Hills resource pack.">
 	<meta name="author" content="Luke Brown">
@@ -13,10 +17,6 @@
 	<!-- Stylesheet for the website -->
 	<link rel="stylesheet" href="./assets/css/bootstrap.css">
 	<link rel="stylesheet" href="./assets/css/style.css">
-
-	<!-- Fonts from TypeKit -->
-	<script type="text/javascript" src="//use.typekit.net/gky2akt.js"></script>
-	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 
 	<!-- Database connection loading-->
 	<?php require './assets/protected/config.php'; ?>

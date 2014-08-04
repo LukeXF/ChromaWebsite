@@ -10,20 +10,25 @@
 						<span class="icon-bar"></span>
 					</button>
 
-					<a class="navbar-brand" href="#">Chroma Hills</a>
+					<a class="navbar-brand divided-list" href="#">Chroma Hills</a>
 
 				</div>
 
 
 				<div class="collapse navbar-collapse">
-					<ul class="nav navbar-nav navbar-right">
+					<ul class="nav navbar-nav">
 
-						<li class="active"><a href="http://chromahills.net">Home</a></li>
+						<li><a href="http://chromahills.net">Home</a></li>
 						<li><a href="#about">Vote</a></li>
 						<li><a href="#donate">Donate</a></li>
 						<li><a href="#chrome">Chrome App</a></li>
 						<li><a href="#social">Social</a></li>
 
+					</ul>
+					<ul class="nav navbar-nav navbar-right">
+
+						<li class="divided-list"><a href="http://chromahills.net/login.php">Login</a></li>
+						<li><a href="http://chromahills.net/register.php">Register</a></li>
 
 					</ul>
 
