@@ -17,6 +17,7 @@
 	<!-- Stylesheet for the website -->
 	<link rel="stylesheet" href="./assets/css/bootstrap.css">
 	<link rel="stylesheet" href="./assets/css/style.css">
+	<link rel="stylesheet" href="./assets/css/lightbox.css">
 
 	<!-- Database connection loading-->
 	<?php require './assets/protected/config.php'; ?>

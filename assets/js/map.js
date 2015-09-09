@@ -113,7 +113,7 @@
                 left: -(map.width()) + viewport.width(),
                 top: -(map.height()) + viewport.height(),
                 width: 2 * map.width() - viewport.width(),
-                height: 175 * map.height() - viewport.height()
+                height: 2 * map.height() - viewport.height()
             });
 
             // Check if map is currently out of bounds, revert to closest position if so

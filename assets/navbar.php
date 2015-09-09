@@ -19,10 +19,10 @@
 					<ul class="nav navbar-nav">
 
 						<li><a href="http://chromahills.net">Home</a></li>
-						<li><a href="#about">Vote</a></li>
-						<li><a href="#donate">Donate</a></li>
-						<li><a href="#chrome">Chrome App</a></li>
-						<li><a href="#social">Social</a></li>
+						<li><a href="/forum">Forum</a></li>
+						<li><a href="/donate">Donate</a></li>
+						<li><a href="/stats">Leaderboards</a></li>
+						<li><a href="/vote">Vote</a></li>
 
 					</ul>
 					<ul class="nav navbar-nav navbar-right">
@@ -36,5 +36,6 @@
 
 			</div>
 		</div>
+		
 
 <body>
